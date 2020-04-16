@@ -3,6 +3,8 @@
 - This website was created as an experiment project for study curriculum.
 - A simple Storage as a Service application.
 
+**Wanna take look at my website??** 👉🏻👉🏻[ Visit Webiste](http://saasrha.epizy.com/)
+
 ---
 
 🖥Requirements
@@ -22,7 +24,33 @@ How to run:
 
 - Place the downloaded source code in htdocs folder of the Xampp folder created by default on installing Xampp & now type localhost/htdocs/corona_tracker/index.php in the browser and there you go!
 ```
-**Wanna take look at my website??** 👉🏻👉🏻[ Visit Webiste](http://saasrha.epizy.com/)
+
+---
+Gif
+
+![Saas](saas.gif)
+
+---
+
+---
+📸 Screenshots
+
+<img width="1677" alt="Screenshot 2020-04-16 at 6 20 30 PM" src="https://user-images.githubusercontent.com/42263217/79461495-df75e180-8013-11ea-992e-d72f88a3a83c.png">
+
+---
+<img width="1410" alt="Screenshot 2020-04-16 at 6 20 42 PM" src="https://user-images.githubusercontent.com/42263217/79461517-e43a9580-8013-11ea-8ade-ebf271580ccb.png">
+
+---
+<img width="1612" alt="Screenshot 2020-04-16 at 6 21 14 PM" src="https://user-images.githubusercontent.com/42263217/79461525-e7358600-8013-11ea-9de9-650c44302404.png">
+
+---
+<img width="1153" alt="Screenshot 2020-04-16 at 6 43 57 PM" src="https://user-images.githubusercontent.com/42263217/79461531-e8ff4980-8013-11ea-8eaf-43aefaf858ee.png">
+
+---
+<img width="999" alt="Screenshot 2020-04-16 at 6 44 20 PM" src="https://user-images.githubusercontent.com/42263217/79461538-ebfa3a00-8013-11ea-9cac-a644bc8944a5.png">
+
+---
+
 
 
 
