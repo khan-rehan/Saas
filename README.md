@@ -35,18 +35,31 @@ Gif
 ---
 📸 Screenshots
 
+Login page
+
 <img width="1677" alt="Screenshot 2020-04-16 at 6 20 30 PM" src="https://user-images.githubusercontent.com/42263217/79461495-df75e180-8013-11ea-992e-d72f88a3a83c.png">
 
 ---
+
+Register Page
+
 <img width="1410" alt="Screenshot 2020-04-16 at 6 20 42 PM" src="https://user-images.githubusercontent.com/42263217/79461517-e43a9580-8013-11ea-8ade-ebf271580ccb.png">
 
 ---
+
+Home Page
+
 <img width="1612" alt="Screenshot 2020-04-16 at 6 21 14 PM" src="https://user-images.githubusercontent.com/42263217/79461525-e7358600-8013-11ea-9de9-650c44302404.png">
 
 ---
+
+Upload an image
+
 <img width="1153" alt="Screenshot 2020-04-16 at 6 43 57 PM" src="https://user-images.githubusercontent.com/42263217/79461531-e8ff4980-8013-11ea-8eaf-43aefaf858ee.png">
 
 ---
+
+Search for an image
 <img width="999" alt="Screenshot 2020-04-16 at 6 44 20 PM" src="https://user-images.githubusercontent.com/42263217/79461538-ebfa3a00-8013-11ea-9cac-a644bc8944a5.png">
 
 ---
