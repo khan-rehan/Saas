@@ -22,9 +22,6 @@ How to run:
 
 - Place the downloaded source code in htdocs folder of the Xampp folder created by default on installing Xampp & now type localhost/htdocs/corona_tracker/index.php in the browser and there you go!
 ```
-
---
-
 **Wanna take look at my website??** 👉🏻👉🏻[ Visit Webiste](http://saasrha.epizy.com/)
 
 
